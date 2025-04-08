@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: 047e9110d0be69e4984123b078d91c8a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: body_1_10
+    100002: body_1_11
+    100004: body_1_12
+    100006: body_1_2
+    100008: body_1_3
+    100010: body_1_4
+    100012: body_1_5
+    100014: body_1_6
+    100016: body_1_7
+    100018: body_1_8
+    100020: body_1_9
+    100022: cap_1_1
+    100024: cap_1_2
+    100026: cap_1_3
+    100028: cap_1_4
+    100030: cap_1_5
+    100032: cap_1_6
+    100034: group_body
+    100036: locator_cap
+    100038: //RootNode
+    400000: body_1_10
+    400002: body_1_11
+    400004: body_1_12
+    400006: body_1_2
+    400008: body_1_3
+    400010: body_1_4
+    400012: body_1_5
+    400014: body_1_6
+    400016: body_1_7
+    400018: body_1_8
+    400020: body_1_9
+    400022: cap_1_1
+    400024: cap_1_2
+    400026: cap_1_3
+    400028: cap_1_4
+    400030: cap_1_5
+    400032: cap_1_6
+    400034: group_body
+    400036: locator_cap
+    400038: //RootNode
+    2100000: Wheel
+    2100002: rubber
+    2100004: Switcher
+    2100006: emal bl
+    2100008: Decal
+    2100010: bbqs_metaldark
+    2100012: metalpiece
+    2100014: polishChrome
+    2100016: Dark
+    2100018: met mat
+    2100020: 3
+    2300000: body_1_10
+    2300002: body_1_11
+    2300004: body_1_12
+    2300006: body_1_2
+    2300008: body_1_3
+    2300010: body_1_4
+    2300012: body_1_5
+    2300014: body_1_6
+    2300016: body_1_7
+    2300018: body_1_8
+    2300020: body_1_9
+    2300022: cap_1_1
+    2300024: cap_1_2
+    2300026: cap_1_3
+    2300028: cap_1_4
+    2300030: cap_1_5
+    2300032: cap_1_6
+    3300000: body_1_10
+    3300002: body_1_11
+    3300004: body_1_12
+    3300006: body_1_2
+    3300008: body_1_3
+    3300010: body_1_4
+    3300012: body_1_5
+    3300014: body_1_6
+    3300016: body_1_7
+    3300018: body_1_8
+    3300020: body_1_9
+    3300022: cap_1_1
+    3300024: cap_1_2
+    3300026: cap_1_3
+    3300028: cap_1_4
+    3300030: cap_1_5
+    3300032: cap_1_6
+    4300000: body_1_2
+    4300002: body_1_3
+    4300004: body_1_4
+    4300006: body_1_5
+    4300008: body_1_6
+    4300010: body_1_7
+    4300012: body_1_8
+    4300014: body_1_9
+    4300016: body_1_10
+    4300018: body_1_11
+    4300020: body_1_12
+    4300022: cap_1_1
+    4300024: cap_1_2
+    4300026: cap_1_3
+    4300028: cap_1_4
+    4300030: cap_1_5
+    4300032: cap_1_6
+    7400000: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3
+    second: {fileID: 2100000, guid: 75fbaa5f82cba704983053cf3a8d2224, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark
+    second: {fileID: 2100000, guid: aad8b9249c0593945a3287eb35b0fb2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Decal
+    second: {fileID: 2100000, guid: 736a4d68173a1394995092cbcdd08b3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Switcher
+    second: {fileID: 2100000, guid: 3afcf7e9b0cf6874490dcf09174bc418, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wheel
+    second: {fileID: 2100000, guid: 98dc9437257864f43b4223babd6abf01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bbqs_metaldark
+    second: {fileID: 2100000, guid: bcb5bea8972aea341bffc6cb234742c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: emal bl
+    second: {fileID: 2100000, guid: a2151376240d6c641af5095c91b69e82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: met mat
+    second: {fileID: 2100000, guid: 8785dcf960112a849bad292f9675fc59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metalpiece
+    second: {fileID: 2100000, guid: d012f08af513e4b42ae764ead880c7c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polishChrome
+    second: {fileID: 2100000, guid: bc2ac60a17400f4438ef8080e2f2bbe5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rubber
+    second: {fileID: 2100000, guid: d9ad614153d20d34ea36495cb86d5af6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

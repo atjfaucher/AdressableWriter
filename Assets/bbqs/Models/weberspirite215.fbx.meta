@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 8afbaf1be701cee4284f73bc4c3cf81a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: polySurface1
+    100002: polySurface110
+    100004: polySurface119
+    100006: polySurface120
+    100008: polySurface14
+    100010: polySurface17
+    100012: polySurface49
+    100014: pPlane7
+    100016: //RootNode
+    400000: polySurface1
+    400002: polySurface110
+    400004: polySurface119
+    400006: polySurface120
+    400008: polySurface14
+    400010: polySurface17
+    400012: polySurface49
+    400014: pPlane7
+    400016: //RootNode
+    2100000: emal bl
+    2100002: 3
+    2100004: Switcher
+    2100006: Wheel
+    2100008: Dark
+    2100010: met mat
+    2100012: rubber
+    2100014: Decal
+    2300000: polySurface1
+    2300002: polySurface110
+    2300004: polySurface119
+    2300006: polySurface120
+    2300008: polySurface14
+    2300010: polySurface17
+    2300012: polySurface49
+    2300014: pPlane7
+    3300000: polySurface1
+    3300002: polySurface110
+    3300004: polySurface119
+    3300006: polySurface120
+    3300008: polySurface14
+    3300010: polySurface17
+    3300012: polySurface49
+    3300014: pPlane7
+    4300000: polySurface120
+    4300002: polySurface119
+    4300004: polySurface14
+    4300006: polySurface1
+    4300008: polySurface17
+    4300010: polySurface49
+    4300012: polySurface110
+    4300014: pPlane7
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3
+    second: {fileID: 2100000, guid: 75fbaa5f82cba704983053cf3a8d2224, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark
+    second: {fileID: 2100000, guid: 1e57c708b69403745bdf63da749583f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Decal
+    second: {fileID: 2100000, guid: 736a4d68173a1394995092cbcdd08b3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Switcher
+    second: {fileID: 2100000, guid: 3afcf7e9b0cf6874490dcf09174bc418, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wheel
+    second: {fileID: 2100000, guid: 98dc9437257864f43b4223babd6abf01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: emal bl
+    second: {fileID: 2100000, guid: a2151376240d6c641af5095c91b69e82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: met mat
+    second: {fileID: 2100000, guid: f0e8716f237520d408d7b8b5e11742bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rubber
+    second: {fileID: 2100000, guid: d9ad614153d20d34ea36495cb86d5af6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

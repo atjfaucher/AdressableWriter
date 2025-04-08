@@ -1,0 +1,314 @@
+fileFormatVersion: 2
+guid: d28fc8dddecfdd04fae5ba4aa48b0424
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: body
+    100002: Body_1
+    100004: Body_10
+    100006: Body_11
+    100008: Body_12
+    100010: Body_13
+    100012: Body_14
+    100014: Body_2
+    100016: Body_3
+    100018: Body_4
+    100020: Body_5
+    100022: Body_6
+    100024: Body_7
+    100026: Body_8
+    100028: Body_9
+    100030: cap
+    100032: cap_1_1
+    100034: cap_1_2
+    100036: cap_1_3
+    100038: cap_1_4
+    100040: cap_1_5
+    100042: //RootNode
+    400000: body
+    400002: Body_1
+    400004: Body_10
+    400006: Body_11
+    400008: Body_12
+    400010: Body_13
+    400012: Body_14
+    400014: Body_2
+    400016: Body_3
+    400018: Body_4
+    400020: Body_5
+    400022: Body_6
+    400024: Body_7
+    400026: Body_8
+    400028: Body_9
+    400030: cap
+    400032: cap_1_1
+    400034: cap_1_2
+    400036: cap_1_3
+    400038: cap_1_4
+    400040: cap_1_5
+    400042: //RootNode
+    2100000: DarkGrey
+    2100002: PolishChrome
+    2100004: Napoleon_glass
+    2100006: Napoleon_inox xuoc
+    2100008: Dashboard
+    2100010: logo2_decal
+    2100012: PannelBoard
+    2100014: metalpiece
+    2100016: GreyPlastic
+    2100018: Steel
+    2100020: Napoleon_ryeg4t34
+    2100022: white
+    2100024: Wheel
+    2100026: Red
+    2100028: Logo_decal
+    2100030: EmissiveBlue
+    2300000: Body_1
+    2300002: Body_10
+    2300004: Body_11
+    2300006: Body_12
+    2300008: Body_13
+    2300010: Body_14
+    2300012: Body_2
+    2300014: Body_3
+    2300016: Body_4
+    2300018: Body_5
+    2300020: Body_6
+    2300022: Body_7
+    2300024: Body_8
+    2300026: Body_9
+    2300028: cap_1_1
+    2300030: cap_1_2
+    2300032: cap_1_3
+    2300034: cap_1_4
+    2300036: cap_1_5
+    3300000: Body_1
+    3300002: Body_10
+    3300004: Body_11
+    3300006: Body_12
+    3300008: Body_13
+    3300010: Body_14
+    3300012: Body_2
+    3300014: Body_3
+    3300016: Body_4
+    3300018: Body_5
+    3300020: Body_6
+    3300022: Body_7
+    3300024: Body_8
+    3300026: Body_9
+    3300028: cap_1_1
+    3300030: cap_1_2
+    3300032: cap_1_3
+    3300034: cap_1_4
+    3300036: cap_1_5
+    4300000: cap_1_1
+    4300002: cap_1_2
+    4300004: cap_1_3
+    4300006: cap_1_4
+    4300008: cap_1_5
+    4300010: Body_14
+    4300012: Body_13
+    4300014: Body_12
+    4300016: Body_11
+    4300018: Body_10
+    4300020: Body_9
+    4300022: Body_8
+    4300024: Body_7
+    4300026: Body_6
+    4300028: Body_5
+    4300030: Body_4
+    4300032: Body_3
+    4300034: Body_2
+    4300036: Body_1
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DarkGrey
+    second: {fileID: 2100000, guid: aad8b9249c0593945a3287eb35b0fb2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dashboard
+    second: {fileID: 2100000, guid: 18449cd03ca11e242b21486ed1d59e97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EmissiveBlue
+    second: {fileID: 2100000, guid: 7520182994e243842bf09b2171098299, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GreyPlastic
+    second: {fileID: 2100000, guid: 7fde06664c7a82f48ae80ee8463492e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Logo_decal
+    second: {fileID: 2100000, guid: 3449d91072dd60f45acaa8ebdf0aad1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Napoleon_glass
+    second: {fileID: 2100000, guid: 7fb387596538cbe4faa77adabc17a88a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Napoleon_inox xuoc
+    second: {fileID: 2100000, guid: 8785dcf960112a849bad292f9675fc59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Napoleon_ryeg4t34
+    second: {fileID: 2100000, guid: 0fe36dea4088b1046961c9375f194d5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PannelBoard
+    second: {fileID: 2100000, guid: ca39040aaba48f344a31e6b4b7e2adba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PolishChrome
+    second: {fileID: 2100000, guid: bc2ac60a17400f4438ef8080e2f2bbe5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red
+    second: {fileID: 2100000, guid: dff91f65150c1ee42890f4bc91109a7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel
+    second: {fileID: 2100000, guid: 7d5e8b56ab2637c4da892dd2d5325080, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wheel
+    second: {fileID: 2100000, guid: 0a4735555ca886b44850525e0f3c5d44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: logo2_decal
+    second: {fileID: 2100000, guid: 6844fb1c93b854a48ae3399afe1bc033, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metalpiece
+    second: {fileID: 2100000, guid: d012f08af513e4b42ae764ead880c7c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white
+    second: {fileID: 2100000, guid: 2fa41fb1dc9db224a8c66f1956358c4d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

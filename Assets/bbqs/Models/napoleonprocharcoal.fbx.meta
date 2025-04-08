@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 667d8489c0fdb5748a77cc9af18242f9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bag
+    100002: body
+    100004: body_1
+    100006: body_2
+    100008: body_3
+    100010: body_4
+    100012: body_5
+    100014: body_6
+    100016: body_7
+    100018: body_8
+    100020: body_9
+    100022: Cap
+    100024: Cap_1
+    100026: Cap_2
+    100028: Cap_3
+    100030: Cap_4
+    100032: Cap_5
+    100034: Cap_6
+    100036: Cap_7
+    100038: meet
+    100040: //RootNode
+    400000: bag
+    400002: body
+    400004: body_1
+    400006: body_2
+    400008: body_3
+    400010: body_4
+    400012: body_5
+    400014: body_6
+    400016: body_7
+    400018: body_8
+    400020: body_9
+    400022: Cap
+    400024: Cap_1
+    400026: Cap_2
+    400028: Cap_3
+    400030: Cap_4
+    400032: Cap_5
+    400034: Cap_6
+    400036: Cap_7
+    400038: meet
+    400040: //RootNode
+    2100000: 'Material #127'
+    2100002: handle_bumped
+    2100004: body_paint
+    2100006: thermometer
+    2100008: steel
+    2100010: aluminium
+    2100012: rubber
+    2100014: charcoal_bag
+    2100016: meat_and_vegetable
+    2100018: tire_bump
+    2100020: steel_aniso
+    2100022: grill_metall
+    2300000: bag
+    2300002: body_1
+    2300004: body_2
+    2300006: body_3
+    2300008: body_4
+    2300010: body_5
+    2300012: body_6
+    2300014: body_7
+    2300016: body_8
+    2300018: body_9
+    2300020: Cap_1
+    2300022: Cap_2
+    2300024: Cap_3
+    2300026: Cap_4
+    2300028: Cap_5
+    2300030: Cap_6
+    2300032: Cap_7
+    2300034: meet
+    3300000: bag
+    3300002: body_1
+    3300004: body_2
+    3300006: body_3
+    3300008: body_4
+    3300010: body_5
+    3300012: body_6
+    3300014: body_7
+    3300016: body_8
+    3300018: body_9
+    3300020: Cap_1
+    3300022: Cap_2
+    3300024: Cap_3
+    3300026: Cap_4
+    3300028: Cap_5
+    3300030: Cap_6
+    3300032: Cap_7
+    3300034: meet
+    4300000: Cap_4
+    4300002: Cap_3
+    4300004: Cap_5
+    4300006: Cap_7
+    4300008: Cap_6
+    4300010: Cap_2
+    4300012: Cap_1
+    4300014: bag
+    4300016: meet
+    4300018: body_3
+    4300020: body_4
+    4300022: body_1
+    4300024: body_7
+    4300026: body_5
+    4300028: body_2
+    4300030: body_8
+    4300032: body_6
+    4300034: body_9
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #127'
+    second: {fileID: 2100000, guid: 26ba9e46d63365349a26ac3d7684b5cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aluminium
+    second: {fileID: 2100000, guid: 428cb0f21705b3a499d0af1ca6e3a6a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_paint
+    second: {fileID: 2100000, guid: 0e632b408dc073946ac836bc7ac7d29e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: charcoal_bag
+    second: {fileID: 2100000, guid: 50f23441841de9c418c2614f57d3268b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grill_metall
+    second: {fileID: 2100000, guid: fb8c604ffdd5a1241869f768e241f951, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: handle_bumped
+    second: {fileID: 2100000, guid: 01994a08340e86a44bf8d02a6adb1d33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: meat_and_vegetable
+    second: {fileID: 2100000, guid: f7052efb2e0fa8e46b7123b82ac7ecf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rubber
+    second: {fileID: 2100000, guid: 75f6eb43d216d7b40aaeeafc9a356f95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steel
+    second: {fileID: 2100000, guid: 2b84b2b2ffaf6c84fb93f0a0e501fd61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steel_aniso
+    second: {fileID: 2100000, guid: 6d570d3cc0d782542b4305ca89e47ffc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: thermometer
+    second: {fileID: 2100000, guid: 31f87db3df4d4b244a0c33f5bccb1ee3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tire_bump
+    second: {fileID: 2100000, guid: ec7598565df67ec4a82fa03b52768593, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

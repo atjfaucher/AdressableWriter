@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 3bc6e0eb3b9a1284a9e06b701b6975b2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: body_bl
+    100002: body_cr
+    100004: body_logo
+    100006: body_met
+    100008: body_molot
+    100010: body_pl
+    100012: body_tire
+    100014: cap_cr
+    100016: cap_dashboard_l
+    100018: cap_dashboard_r
+    100020: cap_logo
+    100022: cap_met
+    100024: group_body
+    100026: inner_body_grill_metalplace1
+    100028: inner_body_grill_polishchrome
+    100030: inner_body_steel
+    100032: locator_cap
+    100034: //RootNode
+    400000: body_bl
+    400002: body_cr
+    400004: body_logo
+    400006: body_met
+    400008: body_molot
+    400010: body_pl
+    400012: body_tire
+    400014: cap_cr
+    400016: cap_dashboard_l
+    400018: cap_dashboard_r
+    400020: cap_logo
+    400022: cap_met
+    400024: group_body
+    400026: inner_body_grill_metalplace1
+    400028: inner_body_grill_polishchrome
+    400030: inner_body_steel
+    400032: locator_cap
+    400034: //RootNode
+    2100000: cr
+    2100002: tire
+    2100004: bl
+    2100006: pl bl
+    2100008: phong1
+    2100010: inner_metalpiece
+    2100012: inner_PolishChrome
+    2100014: met
+    2100016: molot
+    2100018: inner_Steel
+    2100020: phong3
+    2100022: phong2
+    2300000: body_bl
+    2300002: body_cr
+    2300004: body_logo
+    2300006: body_met
+    2300008: body_molot
+    2300010: body_pl
+    2300012: body_tire
+    2300014: cap_cr
+    2300016: cap_dashboard_l
+    2300018: cap_dashboard_r
+    2300020: cap_logo
+    2300022: cap_met
+    2300024: inner_body_grill_metalplace1
+    2300026: inner_body_grill_polishchrome
+    2300028: inner_body_steel
+    3300000: body_bl
+    3300002: body_cr
+    3300004: body_logo
+    3300006: body_met
+    3300008: body_molot
+    3300010: body_pl
+    3300012: body_tire
+    3300014: cap_cr
+    3300016: cap_dashboard_l
+    3300018: cap_dashboard_r
+    3300020: cap_logo
+    3300022: cap_met
+    3300024: inner_body_grill_metalplace1
+    3300026: inner_body_grill_polishchrome
+    3300028: inner_body_steel
+    4300000: body_cr
+    4300002: body_tire
+    4300004: body_bl
+    4300006: body_pl
+    4300008: body_logo
+    4300010: inner_body_grill_metalplace1
+    4300012: inner_body_grill_polishchrome
+    4300014: body_met
+    4300016: body_molot
+    4300018: inner_body_steel
+    4300020: cap_cr
+    4300022: cap_dashboard_l
+    4300024: cap_logo
+    4300026: cap_dashboard_r
+    4300028: cap_met
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

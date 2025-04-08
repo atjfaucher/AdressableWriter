@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: bbqs
+  m_EditorClassIdentifier: 
+  m_GroupName: bbqs
+  m_GUID: 2578ea0906fbab24b943466408a34c7a
+  m_SerializeEntries:
+  - m_GUID: 0714b82fe0ce8ad469e832ffaed80f84
+    m_Address: bbqs_kamadogrill_anim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - bbqs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2763137b1cbcc7242b3ef1cf8883be7d
+    m_Address: bbqs_weberspirite215_anim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - bbqs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b639da6df695d3438c188f804260c9d
+    m_Address: bbqs_grillgaswebergenesis_anim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - bbqs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e4b2a5e3394d9645b30002ddd345ffd
+    m_Address: bbqs_weberonetouchgrill_anim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - bbqs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f83f8f19af8b734f9e1d7a9caf34df5
+    m_Address: bbqs_napoleonprestige665_anim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - bbqs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a256560517a5374699adc67a441eca9
+    m_Address: bbqs_napoleonprestigepro825_anim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - bbqs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc8dab868575e9b4dbbe09ff9f8e9e71
+    m_Address: bbqs_napoleonprocharcoal_anim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - bbqs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd61ec0cd0380fe498ca905a0ae9f99a
+    m_Address: bbqs_ceramiccharcoalgrill_anim
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - bbqs
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a580a483850986a43ba52c6131edb6d0, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d5c91a74a56247d43969c78456239e3a, type: 2}
+    - {fileID: 11400000, guid: 49c7096d934dc3646b46ac465c3fe59f, type: 2}

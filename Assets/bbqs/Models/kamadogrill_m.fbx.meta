@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 3faceebc61da5834a82a7095088c3072
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: body_1
+    100002: body_6
+    100004: body_dark
+    100006: body_green_body
+    100008: body_green_texture
+    100010: body_metal
+    100012: cap_black
+    100014: cap_dark
+    100016: cap_dashboard
+    100018: cap_green_body
+    100020: cap_green_texture
+    100022: cap_metal
+    100024: cap_spring
+    100026: group_body
+    100028: group_cap
+    100030: group_joint
+    100032: joint_cap
+    100034: joint_spring_1
+    100036: joint_spring_2
+    100038: //RootNode
+    400000: body_1
+    400002: body_6
+    400004: body_dark
+    400006: body_green_body
+    400008: body_green_texture
+    400010: body_metal
+    400012: cap_black
+    400014: cap_dark
+    400016: cap_dashboard
+    400018: cap_green_body
+    400020: cap_green_texture
+    400022: cap_metal
+    400024: cap_spring
+    400026: group_body
+    400028: group_cap
+    400030: group_joint
+    400032: joint_cap
+    400034: joint_spring_1
+    400036: joint_spring_2
+    400038: //RootNode
+    2100000: metal
+    2100002: bbq_green_texture
+    2100004: bbqs_dark
+    2100006: bbq_green_body
+    2100008: grill_metall
+    2100010: steel
+    2100012: black
+    2100014: green logo
+    2100016: red
+    2100018: dashboard
+    2300000: body_1
+    2300002: body_6
+    2300004: body_dark
+    2300006: body_green_body
+    2300008: body_green_texture
+    2300010: body_metal
+    3300000: body_1
+    3300002: body_6
+    3300004: body_dark
+    3300006: body_green_body
+    3300008: body_green_texture
+    3300010: body_metal
+    4300000: body_metal
+    4300002: body_green_texture
+    4300004: body_dark
+    4300006: body_green_body
+    4300008: body_6
+    4300010: body_1
+    4300012: cap_spring
+    4300014: cap_metal
+    4300016: cap_black
+    4300018: cap_dashboard
+    4300020: cap_green_texture
+    4300022: cap_dark
+    4300024: cap_green_body
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: cap_black
+    13700002: cap_dark
+    13700004: cap_dashboard
+    13700006: cap_green_body
+    13700008: cap_green_texture
+    13700010: cap_metal
+    13700012: cap_spring
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bbq_green_body
+    second: {fileID: 2100000, guid: 343ec95caf9fd71439ad92c6058a3ff0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bbq_green_texture
+    second: {fileID: 2100000, guid: 558644081c81f0740be8ba095c998803, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bbqs_dark
+    second: {fileID: 2100000, guid: 42ee5364768ec2b4aa747a060a7166b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dashboard
+    second: {fileID: 2100000, guid: db39435629eeefe4cba9ee0cbf542fdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grill_metall
+    second: {fileID: 2100000, guid: fb8c604ffdd5a1241869f768e241f951, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2100000, guid: 2b834456ca3fdab4599210fabc380ef5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steel
+    second: {fileID: 2100000, guid: 2b84b2b2ffaf6c84fb93f0a0e501fd61, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

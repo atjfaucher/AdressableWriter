@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CategoryXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="3DModels">
+	<Categories>
+		<CategoryXML id="outdoor" imagePath="Logos/outdoor.png">
+			<Title lang="en" value="Outdoor" />
+			<Title lang="fr" value="Extérieur" />
+			<Categories>
+				<CategoryXML id="bbqs" imagePath="Logos/bbqs.png">
+					<Title lang="en" value="BBQs" />
+					<Categories>
+						<CategoryXML id="kamado" imagePath="Logos\kamado.png">
+							<Title lang="en" value="kamado" />
+							<MenuItems>
+								<MenuItem xsi:type="Model3dMenuItem" version="1" id="bbqs_ceramiccharcoalgrill_anim" CameraPosX="-0.8560936" CameraPosY="-1.302401" CameraPosZ="-1.156046" CameraDirX="24.06421" CameraDirY="216.7838" CameraDirZ="-3.13238E-05">
+									<Title lang="en" value="Kamado Grill Ceramic Charcoal" />
+									<Title lang="fr" value="Barbecue au charbon Kamado" />
+								</MenuItem>
+								<MenuItem xsi:type="Model3dMenuItem" version="1" id="bbqs_kamadogrill_anim" CameraPosX="-0.8560936" CameraPosY="-1.302401" CameraPosZ="-1.156046" CameraDirX="24.06421" CameraDirY="216.7838" CameraDirZ="-3.13238E-05">
+									<Title lang="en" value="Kamado Grill Big Green Egg" />
+									<Title lang="fr" value="Barbecue au charbon Kamado Green Egg" />
+								</MenuItem>
+							</MenuItems>
+						</CategoryXML>
+						<CategoryXML id="napoleon" imagePath="Logos\napoleon.png">
+							<Title lang="en" value="napoleon" />
+							<MenuItems>
+								<MenuItem xsi:type="Model3dMenuItem" version="1" id="bbqs_napoleonprestige665_anim" CameraPosX="-0.9036206" CameraPosY="-1.273907" CameraPosZ="-1.124994" CameraDirX="23.54858" CameraDirY="210.4241" CameraDirZ="-3.026833E-05">
+									<Title lang="en" value="Napoleon Prestige 665" />
+								</MenuItem>
+								<MenuItem xsi:type="Model3dMenuItem" version="1" id="bbqs_napoleonprestigepro825_anim" CameraPosX="-1.017154" CameraPosY="-1.420913" CameraPosZ="-1.773148" CameraDirX="23.54858" CameraDirY="208.0176" CameraDirZ="-2.887134E-05">
+									<Title lang="en" value="Napoleon Prestige Pro 825" />
+								</MenuItem>
+								<MenuItem xsi:type="Model3dMenuItem" version="1" id="bbqs_napoleonprocharcoal_anim" CameraPosX="-0.7119911" CameraPosY="-1.212574" CameraPosZ="-1.243952" CameraDirX="23.54858" CameraDirY="208.0176" CameraDirZ="-2.887134E-05">
+									<Title lang="en" value="Napoleon Pro Charcoal" />
+								</MenuItem>
+							</MenuItems>
+						</CategoryXML>
+						<CategoryXML id="weber" imagePath="Logos\weber.png">
+							<Title lang="en" value="weber" />
+							<MenuItems>
+								<MenuItem xsi:type="Model3dMenuItem" version="1" id="bbqs_grillgaswebergenesis_anim" CameraPosX="-0.8058736" CameraPosY="-1.237389" CameraPosZ="-1.329419" CameraDirX="24.57988" CameraDirY="208.1895" CameraDirZ="-3.239033E-05">
+									<Title lang="en" value="Weber Gas Grill Weber Genesis II e330 " />
+									<Title lang="fr" value="Barbecue au gaz Weber Genesis II e330 " />
+								</MenuItem>
+								<MenuItem xsi:type="Model3dMenuItem" version="1" id="bbqs_weberonetouchgrill_anim" CameraPosX="-0.8058736" CameraPosY="-1.237389" CameraPosZ="-1.329419" CameraDirX="24.57988" CameraDirY="208.1895" CameraDirZ="-3.239033E-05">
+									<Title lang="en" value="Weber Grill One Touch" />
+								</MenuItem>
+								<MenuItem xsi:type="Model3dMenuItem" version="1" id="bbqs_weberspirite215_anim" CameraPosX="-0.8023536" CameraPosY="-1.555063" CameraPosZ="-1.166446" CameraDirX="24.57988" CameraDirY="208.1895" CameraDirZ="-3.239033E-05">
+									<Title lang="en" value="Weber Spirit E215" />
+								</MenuItem>
+							</MenuItems>
+						</CategoryXML>
+					</Categories>
+				</CategoryXML>
+			</Categories>
+		</CategoryXML>
+	</Categories>
+</CategoryXML>

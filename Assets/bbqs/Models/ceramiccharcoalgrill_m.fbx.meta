@@ -1,0 +1,301 @@
+fileFormatVersion: 2
+guid: 7b6de325b002e6349b21d19352fe4ef5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: body_aluminul
+    100002: body_dark_inside
+    100004: body_darkbody
+    100006: body_darkmetal
+    100008: body_grill_down
+    100010: body_grill_top
+    100012: body_Rubber
+    100014: body_Wood
+    100016: brand
+    100018: cap
+    100020: cap_dark
+    100022: cap_darkbody
+    100024: cap_darkmetal
+    100026: cap_steel
+    100028: cap_wood
+    100030: //RootNode
+    100032: Dashboard
+    100034: group_body
+    100036: group_cap
+    100038: group_grill
+    100040: group_joint_spring
+    100042: group_spring
+    100044: joint_cap
+    100046: joint_spring_l_1
+    100048: joint_spring_l_2
+    100050: joint_spring_r_1
+    100052: joint_spring_r_2
+    100054: polySurface1
+    100056: polySurface23
+    100058: spring_l
+    100060: spring_r
+    400000: body_aluminul
+    400002: body_dark_inside
+    400004: body_darkbody
+    400006: body_darkmetal
+    400008: body_grill_down
+    400010: body_grill_top
+    400012: body_Rubber
+    400014: body_Wood
+    400016: brand
+    400018: cap
+    400020: cap_dark
+    400022: cap_darkbody
+    400024: cap_darkmetal
+    400026: cap_steel
+    400028: cap_wood
+    400030: //RootNode
+    400032: Dashboard
+    400034: group_body
+    400036: group_cap
+    400038: group_grill
+    400040: group_joint_spring
+    400042: group_spring
+    400044: joint_cap
+    400046: joint_spring_l_1
+    400048: joint_spring_l_2
+    400050: joint_spring_r_1
+    400052: joint_spring_r_2
+    400054: polySurface1
+    400056: polySurface23
+    400058: spring_l
+    400060: spring_r
+    2100000: CeramicCharcoalGrill_Steel
+    2100002: CeramicCharcoalGrill_Cap
+    2100004: CeramicCharcoalGrill_body
+    2100006: Dark
+    2100008: CeramicCharcoalGrill_masterbuilder
+    2100010: CeramicCharcoalGrill_dashboard
+    2100012: CeramicCharcoalGrill_Wood
+    2100014: CeramicCharcoalGrill_blackmetal
+    2100016: CeramicCharcoalGrill_Aluminium
+    2100018: CeramicCharcoalGrill_Rubber
+    2100020: grill_metall
+    2100022: steel
+    2300000: body_aluminul
+    2300002: body_dark_inside
+    2300004: body_darkbody
+    2300006: body_darkmetal
+    2300008: body_grill_down
+    2300010: body_grill_top
+    2300012: body_Rubber
+    2300014: body_Wood
+    2300016: polySurface1
+    2300018: polySurface23
+    3300000: body_aluminul
+    3300002: body_dark_inside
+    3300004: body_darkbody
+    3300006: body_darkmetal
+    3300008: body_grill_down
+    3300010: body_grill_top
+    3300012: body_Rubber
+    3300014: body_Wood
+    3300016: polySurface1
+    3300018: polySurface23
+    4300000: cap_steel
+    4300002: cap
+    4300004: cap_darkbody
+    4300006: cap_dark
+    4300008: brand
+    4300010: Dashboard
+    4300012: cap_wood
+    4300014: cap_darkmetal
+    4300016: spring_r
+    4300018: spring_l
+    4300020: body_aluminul
+    4300022: body_Rubber
+    4300024: body_dark_inside
+    4300026: body_darkbody
+    4300028: polySurface1
+    4300030: polySurface23
+    4300032: body_darkmetal
+    4300034: body_Wood
+    4300036: body_grill_top
+    4300038: body_grill_down
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: brand
+    13700002: cap
+    13700004: cap_dark
+    13700006: cap_darkbody
+    13700008: cap_darkmetal
+    13700010: cap_steel
+    13700012: cap_wood
+    13700014: Dashboard
+    13700016: spring_l
+    13700018: spring_r
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CeramicCharcoalGrill_Aluminium
+    second: {fileID: 2100000, guid: 45acfb2f6b8a2a14b960f35cf76dc834, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CeramicCharcoalGrill_Cap
+    second: {fileID: 2100000, guid: 658a7076f48d0cf40bc427ef831d6cfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CeramicCharcoalGrill_Rubber
+    second: {fileID: 2100000, guid: d41bb77b07a8b8447b5e5556f0523142, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CeramicCharcoalGrill_Steel
+    second: {fileID: 2100000, guid: ada0a8df6a88b1f40b0ac4bf6fe51216, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CeramicCharcoalGrill_Wood
+    second: {fileID: 2100000, guid: e2376bd4f7fc6554d82bb5bcddf029ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CeramicCharcoalGrill_blackmetal
+    second: {fileID: 2100000, guid: 31e52ad800fbf0b4ebff0c5fcf801beb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CeramicCharcoalGrill_body
+    second: {fileID: 2100000, guid: 49e25aae66e054b45b67bdeb7c3deb2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CeramicCharcoalGrill_dashboard
+    second: {fileID: 2100000, guid: da5291489eecda549af98f7fe8167859, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CeramicCharcoalGrill_masterbuilder
+    second: {fileID: 2100000, guid: d002a78ab574c9e46afca911030f075c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark
+    second: {fileID: 2100000, guid: 42ee5364768ec2b4aa747a060a7166b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grill_metall
+    second: {fileID: 2100000, guid: fb8c604ffdd5a1241869f768e241f951, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steel
+    second: {fileID: 2100000, guid: 2b84b2b2ffaf6c84fb93f0a0e501fd61, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
